@@ -1,4 +1,10 @@
+<div align="center" width="50">
+    <img alt="Edel Rivera" src="./Edel Rivera.png" width="100%"/>
+</div>
+
+
 ## Hi there 👋
+
 
 <!--
 **erivera8/erivera8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
